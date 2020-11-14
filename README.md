@@ -21,7 +21,6 @@ mkdir apps
 python manage.py startapp core
 ```
 MOVA OS APPS CRIADOS PARA DENTRO DA PASTA "apps" ANTES DE CONTINUAR!
-CONTINUAÇÃO:
 ```
 python manage.py makemigrations
 python manage.py migrate
