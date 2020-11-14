@@ -19,7 +19,10 @@ pipenv shell
 django-admin startproject project .
 mkdir apps
 python manage.py startapp core
-MOVA OS APPS CRIADOS PARA DENTRO DA PASTA "apps"
+```
+MOVA OS APPS CRIADOS PARA DENTRO DA PASTA "apps" ANTES DE CONTINUAR!
+CONTINUAÇÃO:
+```
 python manage.py makemigrations
 python manage.py migrate
 python manage.py createsuperuser
